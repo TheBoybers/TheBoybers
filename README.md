@@ -1,16 +1,26 @@
-### Hi there 👋
+# Boyobo
+I am a privacy & low-latencey advocate from Arlington, Virginia.
 
-<!--
-**TheBoybers/TheBoybers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I currently work for Hallow Industries.**
 
-Here are some ideas to get you started:
+### PC Specs:
+  - i9-10900kf @ 5.1GHz CPU
+  - NZXT Kraken x63 AIO Cooler
+  - Asus ROG Strix z490-E Motherboard
+  - 32GB Corsair Vengeance LPX Ram @ 3600MHz 15-15-15-35
+  - Used OEM blower style 1080 GPU
+  - Corsair RM850x PSU
+  - NZXT H510 Case
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Info:
+**Discord:** Boyobo#1394
+**OS Install:** Currently oin Manjaro KDE minimal running a KWin script called Krohnkite, going back to Gentoo soon-ish.'
+
+~~~js
+function followMe(viewer) {
+  if (!viewer.isFollowing(Github.CurrentPage())) {
+    viewer.addEntry(FOLLOW, new GithubUser("https://github.com/TheBoybers"));
+    console.log("Thanks for following me!");
+  }
+}
+~~~
