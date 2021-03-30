@@ -1,5 +1,5 @@
 # Boyobo
-I am a privacy & low-latencey advocate from Arlington, Virginia.
+I am a privacy & low-latency advocate from Arlington, Virginia.
 
 **I currently work for Hallow Industries.**
 
