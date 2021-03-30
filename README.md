@@ -14,6 +14,7 @@ I am a privacy & low-latency advocate from Arlington, Virginia.
 
 ### Info:
 **Discord:** Boyobo#1394
+</br>
 **OS Install:** Currently oin Manjaro KDE minimal running a KWin script called Krohnkite, going back to Gentoo soon-ish.'
 
 ~~~js
